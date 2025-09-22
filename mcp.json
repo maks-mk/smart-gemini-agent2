@@ -9,7 +9,7 @@
     "command": "uvx",
     "args": ["duckduckgo-mcp-server"],
     "transport": "stdio",
-    "enabled": true
+    "enabled": false
   },
   "fetch": {
     "command": "uvx",
