@@ -15,7 +15,7 @@
     "command": "uvx",
     "args": ["mcp-server-fetch"],
     "transport": "stdio",
-    "enabled": true
+    "enabled": false
   },
   "blender": {
     "command": "uvx",
